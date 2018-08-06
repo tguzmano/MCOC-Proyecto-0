@@ -1,7 +1,7 @@
 # MCOC-Proyecto-0
 ## Introducción
 El proyecto-0 busca mostrar el efecto de pérdida de significancia en operaciones aritméticas de punto flotante. Para esto se utiliza el cálculo de determinante de una matriz.
-## Este Ejemplo
+## Dimensionalidad de cada matriz y tipo de datos
 Para este ejemplo, se puede observar cómo varía la significancia dependiendo de la dimensión de la matriz. Se utilizaron matrices de 2x2, 4x4, 8x8, 16x16 y 32x32.
 Se define cada arreglo para dos tipos de datos:
 1. Arreglo con tipo de datos `dtype=no.float32`.
